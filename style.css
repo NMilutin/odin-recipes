@@ -1,0 +1,19 @@
+* {background:#eeeeee;}
+h1{
+    font-size:72px;
+    font-family:Verdana, Arial, sans-serif;
+    font-weight:500;
+    color:#222222;
+    text-align:center;
+}
+img{
+    width:500px;
+    height:auto;
+    margin:auto;
+    display:block;
+}
+li{
+    font-family:Verdana, Arial, sans-serif;
+    font-size:18px;
+    text-align:justify;
+}

@@ -1,0 +1,42 @@
+*{
+    background:#eeeeee;
+}
+h1{
+    font-size:72px;
+    font-family:Verdana, Arial, sans-serif;
+    font-weight:500;
+    color:#222222;
+    text-align:center;
+}
+img{
+    width:500px;
+    height:auto;
+    margin:auto;
+    display:block;
+}
+h2,
+li,
+p{
+    margin-left:50px;
+    margin-right:50px;
+    margin-top:10px;
+    max-width:55ch;
+    text-align:justify;
+}
+li{
+    font-family:Verdana, Arial, sans-serif;
+    font-size:18px;
+    text-align:justify;
+}
+h2{
+    font-size:48px;
+    font-family:Verdana, Arial, sans-serif;
+    font-weight:500;
+    color:#222222;
+    text-align:left;
+}
+p{
+    font-family:Verdana, Arial, sans-serif;
+    font-size:18px;
+    text-align:justify;
+}
